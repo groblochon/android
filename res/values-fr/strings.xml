@@ -210,7 +210,7 @@
   <string name="placeholder_timestamp">18/05/2012 12:23</string>
   <string name="placeholder_media_time">12:23:45</string>
   <string name="instant_upload_on_wifi">Ne téléverser les images que via une connexion WiFi</string>
-  <string name="instant_upload_path">/TéléversementInstantané</string>
+  <string name="instant_upload_path">/upload</string>
   <string name="conflict_title">Conflit de mise à jour</string>
   <string name="conflict_message">Le fichier distant %s n\'est pas synchronisé avec le fichier local. En choisissant de continuer, vous remplacerez le contenu de fichier sur le serveur.</string>
   <string name="conflict_keep_both">Garder les deux versions</string>
